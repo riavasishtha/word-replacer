@@ -1,0 +1,6 @@
+ria -> ashley
+ashley -> bob
+exams -> tests
+hi -> hello
+name -> nickname
+bob -> michael
